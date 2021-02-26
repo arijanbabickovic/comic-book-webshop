@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 9.99
+  first_name: MyString
+  last_name: MyString
+  address: MyString
+  city: MyString
+  country: MyString
+  post_code: MyString
+  date: 2021-02-26 19:30:00
+  status: MyString
+
+two:
+  price: 9.99
+  first_name: MyString
+  last_name: MyString
+  address: MyString
+  city: MyString
+  country: MyString
+  post_code: MyString
+  date: 2021-02-26 19:30:00
+  status: MyString
